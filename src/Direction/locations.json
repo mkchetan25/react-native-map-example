@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nanjangud Temple",
+        "address": "Nanjangud town, Mysore",
+        "coords": {
+            "longitude": 12.1189,
+            "latitude": 76.6928
+        },
+        "Image_url": "https://www.thehindu.com/migration_catalog/article14286310.ece/ALTERNATES/LANDSCAPE_615/17bg_myhsn_temp+17BG_TEMPLE.jpg.jpg"
+    },
+    {
+        "name": "Chamundi Hill",
+        "address": "Chamundi hill, Mysore",
+        "coords": {
+            "longitude": 12.2732,
+            "latitude": 76.6707
+        },
+        "Image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mahisasur_Statue_at_Chamundi_Hills.JPG"
+    }
+]

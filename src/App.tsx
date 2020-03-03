@@ -13,7 +13,8 @@ import Styled from 'styled-components/native';
 // User Location
 // import Map from '~/UserLocation';
 // Track User Location
-import Map from '~/TrackUserLocation';
+// import Map from '~/TrackUserLocation';
+import CurrentLocation from './Direction/Direction'
 
 const Container = Styled.View`
     flex: 1;
@@ -22,7 +23,8 @@ const Container = Styled.View`
 const App = () => {
   return (
     <Container>
-      <Map />
+      {/* <Map /> */}
+      <CurrentLocation></CurrentLocation>
     </Container>
   );
 };

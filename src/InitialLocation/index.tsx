@@ -12,8 +12,10 @@ const InitialLocation = () => {
       <MapView
         style={{flex: 1}}
         initialRegion={{
-          latitude: 37.78825,
-          longitude: -122.4324,
+          // latitude: 37.78825,
+          // longitude: -122.4324,
+          latitude: 12.1160,
+          longitude: 76.6782,
           latitudeDelta: 0.0922,
           longitudeDelta: 0.0421,
         }}
